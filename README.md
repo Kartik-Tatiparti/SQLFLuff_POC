@@ -1,7 +1,7 @@
 # SQLFLuff_POC
 Exploring POC for SQLFluff, exploring the strengths and limitations 
 
-Github repo - https://github.com/sqlfluff/sqlfluff
+Github repo - https://github.com/sqlfluff/sqlfluff <br />
 Documentation - https://docs.sqlfluff.com/en/stable/
 
 Steps to setup SQLFluff-

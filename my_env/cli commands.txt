@@ -1,0 +1,1 @@
+sqlfluff fix ./lint_queries/test_query.sql
